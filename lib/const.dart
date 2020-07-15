@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const API_KEY = '5a83b196f43f8ff7d78ff7cc14604e61';
+const API_KEY = 'API_KEY'; //get API key from themoviedb.org
 
 // Colors that use in our app
 const kSecondaryColor = Color(0xCCEEEE8E);
