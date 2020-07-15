@@ -2,6 +2,12 @@
 
 TMDB App Using Flutter
 
+![ss](https://raw.githubusercontent.com/pardosa/TMDB_flutter/master/img/1.png)
+![ss](https://raw.githubusercontent.com/pardosa/TMDB_flutter/master/img/2.png)
+![ss](https://raw.githubusercontent.com/pardosa/TMDB_flutter/master/img/3.png)
+![ss](https://raw.githubusercontent.com/pardosa/TMDB_flutter/master/img/4.png)
+![ss](https://raw.githubusercontent.com/pardosa/TMDB_flutter/master/img/5.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
